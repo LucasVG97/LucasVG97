@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucasVG97
 - 👀 I’m interested in ... Coffe, Beer, Game Development, Javascript, Python, HTML ...  
-- 🌱 I’m currently learning ... Javascrips for games
+- 🌱 I’m currently learning ... Javascrips, HTML and CSS
 - 💞️ I’m looking to collaborate on ... Everything I can
 
 <!---
