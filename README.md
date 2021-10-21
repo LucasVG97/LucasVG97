@@ -8,6 +8,11 @@ I started this journey in the first half of 2021 and I'm currently studying Web 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvg97&theme=radical&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvg97&theme=radical&show_icons=true)
 
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasvg97&theme=radical&show_icons=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvg97&theme=radical&show_icons=true"/>
+</div>
+
 
 
 
