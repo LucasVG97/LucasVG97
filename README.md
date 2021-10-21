@@ -8,7 +8,7 @@ I started this journey in the first half of 2021 and I'm currently studying Web 
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasvg97&theme=radical&show_icons=true"/>
-  <br/>
+  </br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvg97&theme=radical&show_icons=true"/>
 </div>
 
