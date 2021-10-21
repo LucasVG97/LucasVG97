@@ -5,9 +5,8 @@ I'm a web developer passionate about the whole world of code. I am always lookin
 
 I started this journey in the first half of 2021 and I'm currently studying Web Full-Stack Development. The scholarship I got is focused in Angular and Java but my thirst for knowledge can't be quenched so I'm able to learn all the languages and frameworks I need ! :rocket:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvg97&theme=radical&show_icons=true)]
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvg97&theme=radical&show_icons=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvg97&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasvg97&theme=radical&show_icons=true)
 
 
 
