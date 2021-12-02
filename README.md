@@ -18,9 +18,12 @@ I started this journey in the first half of 2021 and I'm currently studying Web 
   <img align="center" alt="HTML5-icon" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS3-icon" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img align="center" alt="JavaScript-icon" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Angular-icon" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Typescript-icon" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Angular-icon" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+  <img align="center" alt="Java-icon" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
+
+
   
 ## Come say hey 🤙
   
