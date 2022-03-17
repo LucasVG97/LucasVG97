@@ -21,7 +21,7 @@ I started this journey in the first half of 2021 and I'm currently studying Web 
   <img align="center" alt="Typescript-icon" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Angular-icon" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Java-icon" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring-icon" height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
+  <img align="center" alt="Spring-icon" height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
 </div>
 
 
