@@ -1,7 +1,7 @@
 ## Hello, I'm Lucas !! :wave:
 
 
-I'm a web developer passionate about the whole world of code. I am always looking for a way to improve my knowledge, trying to reach the next level. 
+I'm a Full-Stack developer passionate about the whole world of code. I am always looking for a way to improve my knowledge, trying to reach the next level. 
 
 I started this journey in the first half of 2021 and I'm currently studying Web Full-Stack Development. The scholarship I got is focused in Angular and Java but my thirst for knowledge can't be quenched so I'm able to learn all the languages and frameworks I need ! :rocket:
 
